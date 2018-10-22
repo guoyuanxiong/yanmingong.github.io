@@ -3,13 +3,13 @@
 }
 
 body {
-        background-color:#d8d8d8;
+    background-color:#d8d8d8;
 	font-size:100%;
 	margin:0;
 }
 
 .content {
-        background-color:white;
+    background-color:white;
 	font-family:'Lato',gfont; 
 	text-rendering:optimizeLegibility;
 	margin-left:auto;
@@ -81,7 +81,7 @@ li.pub {
 	height:35px;
 	background-color:#990000;
 	line-height:35px; 
-	padding:0% 2% 0% 0%;
+	padding:0% 1% 0% 0%;
 	display:inline; 
 }
 
@@ -92,7 +92,7 @@ li.pub {
 	cursor:pointer;
 	display:inline-block;
 	margin:0;
-	padding:0% 8% 0% 2%;
+	padding:0% 6% 0% 6%;
 	zoom:1;
 }
 
