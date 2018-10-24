@@ -81,7 +81,7 @@ li.pub {
 	height:35px;
 	background-color:#990000;
 	line-height:35px; 
-	padding:0% 1% 0% 1%;
+	padding:0% % 0% 0%;
 	display:inline; 
 }
 
@@ -92,7 +92,7 @@ li.pub {
 	cursor:pointer;
 	display:inline-block;
 	margin:0;
-	padding:0% 4% 0% 4%;
+	padding:0% 5% 0% 5%;
 	zoom:1;
 }
 
